@@ -1,0 +1,37 @@
+body{
+    background-image: url("file:///home/bto2g1/Escritorio/proyecto/images/bg.png");
+    
+}
+h5{
+    color: aliceblue;
+    height: 40px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+}
+a{
+    color: aliceblue;
+    height: 40px;
+    border-bottom: 1px solid;
+    font-size: 14px;
+
+    position: relative;
+    left: 82px
+    
+    
+}
+.inicio {
+    width: 400px;
+    height: 160px;
+    border-top: 4px solid #017bab;
+    background-color: #4e4d4d;
+    padding: 20px 30px;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    
+    
+}
+
+

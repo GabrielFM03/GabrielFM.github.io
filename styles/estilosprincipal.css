@@ -1,0 +1,38 @@
+body{
+    background-image: url("file:///home/bto2g1/Escritorio/proyecto/images/bg.png");
+}
+h5{
+    color: aliceblue;
+    font-size: 35px;
+    text-align: center;
+    
+    
+    
+    
+}
+.list{
+    width: 1190px;
+    height: 100px;
+    border-top: 4px solid #017bab;
+    background-color: #4e4d4d;
+    padding: 20px 30px;
+    padding-bottom: 10px;
+}
+td {
+    background-image: url("file:///home/bto2g1/Escritorio/proyecto/images/code.jpg");
+    color: aliceblue;
+    border-top: 2px solid #017bab;
+    border-right: 2px solid #017bab;
+    
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4px;
+}
+
+a{
+    color: aliceblue;
+}
+
